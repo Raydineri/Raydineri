@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Raydineri&label=Profile%20views&color=0e75b6&style=flat" alt="Raydineri" /> </p>
 
-- 🎓 **Graduated** in Information Systems Development from **ISET Radès (DSI)**
+- 🎓 **Graduated** in Information Systems Development from (DSI)**ISET Radès**
 - 💼 Looking for new opportunities to contribute to impactful projects and further enhance my expertise
 - 💬 Ask me about **Spring Boot, Angular, Keycloak, Docker, Laravel, Swagger**
 - 📫 How to reach me: **rayen.benothman07@gmail.com**
@@ -49,4 +49,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&locale=en" alt="Raydineri" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri&" alt="Raydineri" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri" /></p>
