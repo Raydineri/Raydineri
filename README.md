@@ -7,10 +7,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dachraoui-ui&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/dachraoui-ui?label=Followers&style=social" alt="GitHub followers" />
-</div>
+
 
 ---
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
