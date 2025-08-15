@@ -10,9 +10,11 @@
 
 
 ---
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Raydineri&label=Profile%20views&color=0e75b6&style=flat" alt="Raydineri" /> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Raydineri&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Raydineri?label=Followers&style=social" alt="GitHub followers" />
+</div>
 
 - 🎓 **Graduated** in Information Systems Development from **ISET Radès (DSI)**
 - 💼 Looking for new opportunities to contribute to impactful projects and further enhance my expertise
