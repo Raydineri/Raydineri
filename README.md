@@ -11,7 +11,7 @@
 
 ---
 
-<div align="center">
+<div>
   <img src="https://komarev.com/ghpvc/?username=Raydineri&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Raydineri?label=Followers&style=social" alt="GitHub followers" />
 </div>
