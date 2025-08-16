@@ -10,12 +10,12 @@
 
 
 ---
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=Raydineri&label=Profile%20views&color=0e75b6&style=flat" alt="Raydineri" /> </p>
-
-
+  <img src="https://komarev.com/ghpvc/?username=Raydineri&label=Profile%20views&color=0e75b6&style=flat" alt="Raydineri" /> 
+  <img src="https://img.shields.io/github/followers/Raydineri?label=Followers&style=social" alt="GitHub followers" />
+</p>
 
 
 
