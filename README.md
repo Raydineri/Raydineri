@@ -69,5 +69,5 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Raydineri/Raydineri/output/snake.svg)
+<img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
 
