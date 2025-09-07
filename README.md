@@ -69,4 +69,4 @@
 
 <br clear="both">
 
-https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg
+<img src="https://raw.githubusercontent.com/Azerbenazzouz/Azerbenazzouz/output/snake.svg" alt="Snake animation" />
