@@ -53,8 +53,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
 <a href="https://swagger.io/tools/swagger-ui/" target="_blank" rel="noreferrer"><img src="https://archive.org/download/github.com-swagger-api-swagger-ui_-_2021-09-30_17-43-44/cover.jpg" width="40" height="40" alt="Swagger UI" /></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git logo" /></a>
-<a href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Github logo" /></a>
+<a href="https://git.com/" target="_blank" rel="noreferrer"><src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/></a>
+
 </p>
 
 ---
