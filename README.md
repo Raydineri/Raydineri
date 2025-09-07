@@ -69,5 +69,5 @@
 
 <br clear="both">
 
-![Snake animation](https://raw.githubusercontent.com/Raydineri/Raydineri/main/snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Raydineri/Raydineri/main/dist/snake.svg)
 
