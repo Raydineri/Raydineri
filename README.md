@@ -1,6 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 
-<h1 align="center">Hi 👋, I'm Benothman Rayen</h1>
+<h1 align="center">Hi 👋, I'm Rayen Benothman </h1>
 <div align="center">
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Passionate+IT+Developer+from+Tunisia+🇹🇳;Full-Stack+Java+%26+Angular+Developer;Building+Scalable+Applications;Always+Learning+New+Technologies)](https://git.io/typing-svg)
