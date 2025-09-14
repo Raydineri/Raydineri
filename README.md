@@ -21,7 +21,7 @@
 
 - 🎓 **Graduated** in Information Systems Development from **ISET Radès (DSI)**
 - 💼 Looking for new opportunities to contribute to impactful projects and further enhance my expertise
-- 💬 Ask me about **Spring Boot, Angular, Keycloak, Docker, Laravel, Swagger**
+- 💬 Ask me about **Spring Boot, Angular, Keycloak, Docker, Swagger**
 - 📫 How to reach me: **rayen.benothman07@gmail.com**
 - 📄 Know more about me: [LinkedIn](https://www.linkedin.com/in/benothman-rayen/)
 - ⚡ Fun fact: **I turn coffee ☕ into code and complex problems into elegant digital solutions 🚀**
