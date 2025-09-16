@@ -59,12 +59,18 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raydineri&show_icons=true&locale=en&layout=compact" alt="Raydineri" /></p>
 
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raydineri&show_icons=true&locale=en&layout=compact" alt="Raydineri" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&locale=en" alt="Raydineri" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true" alt="Raydineri GitHub stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri" /></p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri streak stats" />
+</p>
 
 <br clear="both">
 
