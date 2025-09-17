@@ -65,8 +65,9 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&count_private=true&include_all_commits=true&show=prs_merged,prs_merged_percentage&show_icons=true" alt="Raydineri GitHub stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Raydineri GitHub stats" />
 </p>
+
 
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri streak stats" />
