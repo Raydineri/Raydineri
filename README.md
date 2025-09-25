@@ -70,7 +70,7 @@
 
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri streak stats" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" />
 </p>
 
 <br clear="both">
