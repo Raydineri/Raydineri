@@ -59,14 +59,9 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
+![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydineri&layout=compact&theme=radical)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Raydineri&show_icons=true&locale=en&layout=compact" alt="Raydineri" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=86400" alt="Raydineri GitHub stats" />
-</p>
 
 
 <p align="center">
