@@ -59,14 +59,11 @@
 ---
 
 <h3 align="left">📊 GitHub Stats:</h3>
-![Rayen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Raydineri&layout=compact&theme=radical)
-
-
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Raydineri" alt="Raydineri streak stats" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydineri&layout=compact&theme=radical" width="48%" />
 </p>
+
 
 
 <br clear="both">
