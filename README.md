@@ -60,8 +60,8 @@
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydineri&layout=compact&theme=radical" width="30%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&theme=radical" width="30%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raydineri&layout=compact&theme=radical" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Raydineri&show_icons=true&theme=radical" width="40%" />
 </p>
 
 
