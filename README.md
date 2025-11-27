@@ -10,7 +10,7 @@
 
 
 ---
-<img align="right" alt="Coding" width="369" style="margin-top: 35px; margin-bottom: 40px;"
+<img align="right" alt="Coding" width="350" style="margin-top: 35px; margin-bottom: 40px;"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
