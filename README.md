@@ -10,13 +10,10 @@
 
 
 ---
-<img 
-  align="right" 
-  alt="Coding" 
-  width="369" 
-  style="margin-top: -20px; margin-bottom: 10px;" 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-/>
+<p align="right">
+  <img alt="Coding" width="369" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</p>
+
 
 
 <p align="left"> 
